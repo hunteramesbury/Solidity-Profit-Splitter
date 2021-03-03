@@ -63,8 +63,7 @@ The motivation for this contract is that it handles a employees equity plan by d
 
 
 ## Notes:
-- Local host is used with Ganache Truffle Suite and port number 8545
-- Testnet used is Ropstein
+- To test use the Ropstein testnet and input these addresses in the deploy section
 - Associate Profit Splitter Testnet 0x41B0fC84D3ECD22Dd673BE47bc935583A402A0D0
 - Tiered Profit Splitter Testnet 0x90089c651fC730277f15816c2c4C8E39D90D6423
 - Deffered Equity Testnet 0x6eE35Ffcc1557863f0fbD4d15CDd2D3819E65d00
