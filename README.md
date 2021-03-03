@@ -34,7 +34,7 @@ This contract acts like the last one however it splits the deposit into differen
 
 ![AssociateDeploy](Gifs/AssociateDeploy.gif)
 
-3. Too send transactions, enter the value you wish to send in the value box and confirm its in the currency you wish to send. Hit deposit and confirm when prompted by meta mask. You can check your transaction by hitting the metamask confirmation prompt.
+3. To send transactions, enter the value you wish to send in the value box and confirm its in the currency you wish to send. Hit deposit and confirm when prompted by meta mask. You can check your transaction by hitting the metamask confirmation prompt.
 
 ![TieredDeposit](Gifs/TieredDeposit.gif)
 
